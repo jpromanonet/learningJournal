@@ -2,7 +2,19 @@
 
 * [Initial page](README.md)
 
-## freeCodeCamp
+## Programming
 
-* [30-04-2019](freecodecamp/30-04-2019.md)
+* [freeCodeCamp](programming/freecodecamp.md)
+
+## Data Science
+
+* [Untitled](data-science/untitled.md)
+
+## Computer Science
+
+* [Untitled](computer-science/untitled.md)
+
+## Math
+
+* [Untitled](math/untitled.md)
 
